@@ -1,0 +1,37 @@
+.element {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 5px solid skyblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.status {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.green {
+  background-color: darkgreen;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.name {
+  margin: 0;
+  font-weight: bold;
+}
